@@ -17,4 +17,4 @@ The User interface and the web form can be viewed below:
 UI: https://fuvadisinternacional.org/interfaz/
 Form: https://fuvadisinternacional.org/formulario/
 
-This web tool served as my Engineering thesis. If you want to acknowledge more of the main stepts of this project, visit: https://drive.google.com/file/d/1_jpZoObDdvqw2oSGBeKaalD2zD5ojtZi/view?usp=sharing
+This web tool served as my Engineering thesis. If you want to learn more of the main stepts of this project, visit: https://drive.google.com/file/d/1_jpZoObDdvqw2oSGBeKaalD2zD5ojtZi/view?usp=sharing
