@@ -12,3 +12,9 @@ of generating a replicable, easy to edit but at the same time secure and reliabl
 to the problem. A pilot test was conducted to verify the performance of the tool, and as a 
 result, a significant improvement of the current service in terms of speed, organization 
 and security was evidenced
+
+The User interface and the web form can be viewed below:
+UI: https://fuvadisinternacional.org/interfaz/
+Form: https://fuvadisinternacional.org/formulario/
+
+This web tool served as my Engineering thesis. If you want to acknowledge more of the main stepts of this project, visit: https://drive.google.com/file/d/1_jpZoObDdvqw2oSGBeKaalD2zD5ojtZi/view?usp=sharing
