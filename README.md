@@ -1,8 +1,7 @@
 # FUVADISProject
 Design of a User Interface based on Information Engineering and Web Programming for the attention process in FUVADIS
 
-FUVADIS is a Colombian NGO that seeks to provide assistance to the Venezuelan 
-migrant population and Colombian returnees in vulnerable conditions and currently has 
+FUVADIS is a Colombian NGO that seeks to provide assistance to the Venezuelan migrant population and Colombian returnees in vulnerable conditions and currently has 
 an assistance process whose main input is the information collected through a 
 Vulnerability Matrix. This process is negatively affected by the ineffective management 
 in obtaining, storing and managing the information of the beneficiaries, who are currently 
